@@ -1,0 +1,38 @@
+div{
+    width: 250px;
+    padding: 10px;
+}
+
+p {
+    background-color: #6E2594;
+    color: white;
+    line-height: 1.5;
+    font-size: 12px;
+    text-align: center;
+}
+
+h3 {
+    font-size: 16px;
+    text-decoration: none;
+    line-height: 1.5;
+}
+li{
+    font-size: 13px;
+    line-height: 1.5;
+    color: #666;
+}
+h4{
+    color: #ef4a23;
+    font-size: 17px;
+    line-hieght: 1.5;
+    text-align: center;
+}
+
+a{
+    color: blue;
+    font-size: 13px;
+    line-height: 1.5;
+    text-decoration: none;
+    padding: 5px 10px;
+    background-color: rgb(142, 142, 219);
+}
